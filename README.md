@@ -1,5 +1,3 @@
-# Vue 3 + Vite
-
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+- 篩選站名或地址可以顯示相關關鍵字的站點
+- 點選愛心可以收藏站點
+- 點選"收藏站點"只會顯示以收藏的站點列表，再按一次就會返回原來的篩選站點列表
